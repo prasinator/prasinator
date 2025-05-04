@@ -26,6 +26,6 @@ Achieved 100% accuracy using logistic regression. Visualized data distribution w
 - Apply model to real-world genome classification tasks
 
 ## Author
-G.Sai Prasanna — BTech Biotechnology, NIT Warangal## Hi there 👋
+G.Sai Prasanna — BTech Biotechnology, NIT Warangal
 
 
